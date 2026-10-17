@@ -1,0 +1,4 @@
+firmware/.pio/
+firmware/src/seed_config.h
+*.pem
+*.seed.bin
